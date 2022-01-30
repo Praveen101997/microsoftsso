@@ -5,7 +5,7 @@
  */
 const msalConfig = {
     auth: {
-        clientId: "a11a01fd-deef-467d-8a79-5388c33b3905",
+        clientId: "";
         authority: "https://login.microsoftonline.com/common",
         redirectUri: "http://localhost:3000/",
     },
